@@ -61,10 +61,3 @@ python simulator.py
 ## Limitations and transparency
 
 This is a simplified model with simulated data, no real market prices, option bid–ask spreads, jumps, liquidity, margin or financing, or realistic transaction execution. It is **not** evidence of a profitable trading strategy. Code development used AI assistance; the project should be claimed in job applications only to the extent you can personally reproduce, explain, verify, and extend it.
-
-
-### P&L Distribution
-![P&L Distribution](figures/pnl_distribution.png)
-
-### Volatility Sensitivity
-![Volatility Sensitivity](figures/volatility_sensitivity.png)
